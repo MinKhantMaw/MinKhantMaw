@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Min Khant Maw</h1>
-<h3 align="center">A passionate Backend developer from xsphere.</h3>
+<h3 align="center">A passionate Backend developer from onenex</h3>
 
 - 🔭 I’m currently working on **onenex**
 
